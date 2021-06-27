@@ -11,7 +11,8 @@ title                    : "赵懿 / Yi Zhao"
 title_separator          : "-"
 name                     : &name "Zhao Yi"
 description              : &description "Postgraduate student at Zhejiang University"
-url                      : https://zhaone.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+# url                      : https://zhaone.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : http://localhost:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhaone/zhaone.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,12 +83,12 @@ analytics:
 author:
   name             : "Zhao Yi"
   avatar           : "profile.png"
-  bio              : ""
+  bio              : "The supreme happiness of life is the conviction that we are loved"
   location         : "Hangzhou Zhejiang China"
-  employer         :
+  employer         : "Zhejiang Univercity"
   # pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=k0zswKMAAAAJ&hl=en"
-  email            :
+  email            : "yizhaome@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -107,7 +108,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  steam            : "15071446886"
   tumblr           :
   twitter          : "Zhaooone"
   vine             :
@@ -199,7 +200,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      # comments: true
       share: true
       related: true
   # _pages
@@ -216,8 +217,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      # share: true
+      # comments: true
   # _publications
   - scope:
       path: ""
@@ -225,8 +226,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      # share: true
+      # comments: true
   # _portfolio
   - scope:
       path: ""
@@ -234,8 +235,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comment: true
+      # share: true
+      # comment: true
   # _talks
   - scope:
       path: ""
@@ -243,7 +244,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true
+      # share: true
 
 # Sass/SCSS
 sass:
@@ -255,7 +256,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
