@@ -1,48 +1,70 @@
 ---
 layout: archive
-title: "CV"
+title: "Yi Zhao"
 permalink: /cv/
 author_profile: true
+toc: true
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
+> A PDF version is available [here](https://www.dropbox.com/s/avtr2t0zd65q1bl/CV_ZhaoYi.pdf?dl=0)
 
 Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+-------------------------
+- M.Eng. of Computer Technology
+  - Sep. 2019 -- Mar. 2021
+  - College of Computer Science and Technology, Zhejiang Unviersity, Hangzhou, Zhejiang, China
+
+- B.Eng. of Information Security
+  - Sep. 2015 -- Jun. 2019
+  - School of Cyber Science and Engineering, Wuhan Unviersity, Wuhan, Hubei, China
+
+Research Interests
+--------------------------------
+Machine learning and data mining:
+- Autonomous driving (including Temporal-spatial prediction, Geocoding)
+- Biometrics
+- Graph Neural Networks
 
 Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+-------------------------
+- Oct 2018 -- Oct 2020 \| Research Intern \| [FABU.AI](http://www.fabu.ai/)
+  - Worked with Kuan Shi on hexagonal hierarchical geospatial indexing system
+  - Worked with Tiantian wang on 3D objection dectection
+  - Worked with [Hao Li](https://scholar.google.com/citations?hl=en&user=S_OYXVQAAAAJ) on vechile trajctory forecasting
+  - Mentor: [Hao Li](https://scholar.google.com/citations?hl=en&user=S_OYXVQAAAAJ)
+- Apr 2017 -- Aug 2018 \| Research Assistant \| [The NIS&P LAB](http://nisplab.whu.edu.cn), Whuhan University
+  - Worked with [Qin Zou](https://sites.google.com/site/qinzoucn/) on gait recongnition
+  - Advisor: [Qin Zou](https://sites.google.com/site/qinzoucn/) 
   
 Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+--------------------------
+* English: TOEFL 102 \| R 30 \| L 28 \| S 21 \| W 23 
+* Programing
+  * Python
+  * C++
 
 Publications
-======
+--------------------------
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Hornors and Awards
+--------------------------
+- The First Prize Scholarship, School of Cyber Science and Engineering, 2018
+- Honored Grand Prize, Central and Southwestern China Division, TIIC National Under- graduate IOT Design Contest, 2018
+- The Second Prize, The Mathematical Contest In Modeling(MCM), 2018
+- The Third Prize, MathorCup College Students Mathematical Modeling Contest, 2017
+- Model Student of Academic Records, Wuhan University 2016
+- The Second Prize Scholarship, Wuhan University, 2016
+- National Encouragement Scholarship, 2016
+
+
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -56,4 +78,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

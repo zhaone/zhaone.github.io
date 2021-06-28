@@ -84,8 +84,8 @@ author:
   name             : "Zhao Yi"
   avatar           : "profile.png"
   bio              : "The supreme happiness of life is the conviction that we are loved"
-  location         : "Hangzhou Zhejiang China"
-  employer         : "Zhejiang Univercity"
+  location         : "Hangzhou, Zhejiang, China"
+  employer         : # "Zhejiang Univercity"
   # pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=k0zswKMAAAAJ&hl=en"
   email            : "yizhaome@gmail.com"
